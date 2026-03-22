@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jyothirmai</h1>
+<h3 align="center">CSE Student | AI & Software Enthusiast</h3>
 
-<!--
-**jyothirmaigowda/jyothirmaigowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+* 🔭 Currently working on: AI Grocery Stock Recognizer
+* 🌱 Learning: Data Structures & AI
+* 💡 Interested in: Real-world problem solving tech
+* ⚡ Fun fact: I love turning ideas into reality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+* 🛒 AI Grocery Shop Stock Recognizer *(in progress)*
+* 🤖 AI Twin Model *(concept stage)*
+* 🚑 Accident Detection System *(safety-focused project)*
+* 🎓 Campus Share *(resource sharing platform for students)*
+
+---
+
+## 🎯 Goal
+
+To build impactful technology that solves real-world problems
+
+---
+
+⭐ *Consistency > Motivation*
